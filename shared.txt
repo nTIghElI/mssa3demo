@@ -1,1 +1,3 @@
+This is Alice's version of the file
+
 This is Bob's version of the file
