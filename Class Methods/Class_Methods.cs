@@ -35,6 +35,9 @@ class Program
         frank.CelebrateBirthday();
         Console.WriteLine("Total Pandas: " + Panda.GetTotalPanada());
         Console.WriteLine(Panda.ViewingDays(DayOfWeek.Monday));
+
+        frank.Name = "Pat";
+        Console.WriteLine($"Panda's new name is {frank.Name}");
     }
     // }
 
@@ -70,6 +73,13 @@ class Panda
     string name;
     int age;
     static int totalPandas = 0;
+
+    public string Name
+    {
+        //getter & setter
+        get { return name; }
+        set { name = value; }
+    }
 
     public Panda(string name, int age)
     {
