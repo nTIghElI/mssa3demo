@@ -1,0 +1,15 @@
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\bin\Debug\net8.0\Robot_Assignment.exe
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\bin\Debug\net8.0\Robot_Assignment.deps.json
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\bin\Debug\net8.0\Robot_Assignment.runtimeconfig.json
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\bin\Debug\net8.0\Robot_Assignment.dll
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\bin\Debug\net8.0\Robot_Assignment.pdb
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.AssemblyInfoInputs.cache
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.AssemblyInfo.cs
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.sourcelink.json
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.dll
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\refint\Robot_Assignment.dll
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.pdb
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\Robot_Assignment.genruntimeconfig.cache
+C:\Users\thefo\Demos\C#\Class Walkthrough\Class_Demos\mssa3demo\Robot_Assignment\obj\Debug\net8.0\ref\Robot_Assignment.dll
