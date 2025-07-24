@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj": {}
+    "C:\\GitHub\\mssa3demo\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj": {
+    "C:\\GitHub\\mssa3demo\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj",
+        "projectUniqueName": "C:\\GitHub\\mssa3demo\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj",
         "projectName": "Class_Methods_3_Arrays_Loops",
-        "projectPath": "C:\\GitHub\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj",
+        "projectPath": "C:\\GitHub\\mssa3demo\\mssa3demo\\Class_Methods_3_Arrays_Loops\\Class_Methods_3_Arrays_Loops.csproj",
         "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\mssa3demo\\Class_Methods_3_Arrays_Loops\\obj\\",
+        "outputPath": "C:\\GitHub\\mssa3demo\\mssa3demo\\Class_Methods_3_Arrays_Loops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

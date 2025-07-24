@@ -1,0 +1,15 @@
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\bin\Debug\net8.0\Class_Methods_Arrays_Loops_4.exe
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\bin\Debug\net8.0\Class_Methods_Arrays_Loops_4.deps.json
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\bin\Debug\net8.0\Class_Methods_Arrays_Loops_4.runtimeconfig.json
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\bin\Debug\net8.0\Class_Methods_Arrays_Loops_4.dll
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\bin\Debug\net8.0\Class_Methods_Arrays_Loops_4.pdb
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.AssemblyInfoInputs.cache
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.AssemblyInfo.cs
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.csproj.CoreCompileInputs.cache
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.sourcelink.json
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.dll
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\refint\Class_Methods_Arrays_Loops_4.dll
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.pdb
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\Class_Methods_Arrays_Loops_4.genruntimeconfig.cache
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\obj\Debug\net8.0\ref\Class_Methods_Arrays_Loops_4.dll
