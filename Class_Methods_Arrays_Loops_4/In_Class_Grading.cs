@@ -81,7 +81,7 @@
                 studentLetterGrade = "F";
  
             //Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit");
-            Console.WriteLine($"{studentName}:\t\t{studentAvgExamScore}\t\t{studentAvgCombinedScore}\t{studentLetterGrade}\t{studentAvgExtraCreditScore}");
+            Console.WriteLine($"{studentName}:\t\t{studentAvgExamScore}\t\t{studentAvgCombinedScore}\t{studentLetterGrade}\t{studentAvgExtraCreditScore} ({studentAvgCombinedScore-studentAvgExamScore} pts)");
         }
         Console.WriteLine("Press the Enter key to continue");
         Console.ReadLine();
