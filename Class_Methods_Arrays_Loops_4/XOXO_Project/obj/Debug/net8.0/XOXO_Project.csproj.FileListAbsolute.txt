@@ -1,0 +1,15 @@
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\bin\Debug\net8.0\XOXO_Project.exe
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\bin\Debug\net8.0\XOXO_Project.deps.json
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\bin\Debug\net8.0\XOXO_Project.runtimeconfig.json
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\bin\Debug\net8.0\XOXO_Project.dll
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\bin\Debug\net8.0\XOXO_Project.pdb
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.AssemblyInfoInputs.cache
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.AssemblyInfo.cs
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.csproj.CoreCompileInputs.cache
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.sourcelink.json
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.dll
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\refint\XOXO_Project.dll
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.pdb
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\XOXO_Project.genruntimeconfig.cache
+C:\GitHub\mssa3demo\mssa3demo\Class_Methods_Arrays_Loops_4\XOXO_Project\obj\Debug\net8.0\ref\XOXO_Project.dll
